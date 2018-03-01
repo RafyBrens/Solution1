@@ -1,0 +1,11 @@
+C:\Users\Rafael Brens\source\repos\Solution1\Models\bin\Debug\netcoreapp2.0\Models.deps.json
+C:\Users\Rafael Brens\source\repos\Solution1\Models\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Models\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\Rafael Brens\source\repos\Solution1\Models\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Models\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Rafael Brens\source\repos\Solution1\Models\obj\Debug\netcoreapp2.0\Models.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Models\obj\Debug\netcoreapp2.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Models\obj\Debug\netcoreapp2.0\Models.AssemblyInfoInputs.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Models\obj\Debug\netcoreapp2.0\Models.AssemblyInfo.cs
+C:\Users\Rafael Brens\source\repos\Solution1\Models\obj\Debug\netcoreapp2.0\Models.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Models\obj\Debug\netcoreapp2.0\Models.pdb

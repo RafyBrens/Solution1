@@ -1,0 +1,11 @@
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\obj\Debug\netcoreapp2.0\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Repository\obj\Debug\netcoreapp2.0\Repository.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rafael Brens\source\repos\Solution1\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\Users\Rafael Brens\source\repos\Solution1\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\Rafael Brens\source\repos\Solution1\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\Users\Rafael Brens\source\repos\Solution1\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\Users\Rafael Brens\source\repos\Solution1\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\Users\Rafael Brens\source\repos\Solution1\Service\obj\Debug\netcoreapp2.0\Service.pdb
